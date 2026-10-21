@@ -14,6 +14,8 @@ public class StudentProfile {
         System.out.println("Name: Muhammad Erfan Danial Bin Erawan");
         System.out.println("Student ID: S85370");
         System.out.println("Programme: Bachelor of Computer Science (Software Engineering)");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
